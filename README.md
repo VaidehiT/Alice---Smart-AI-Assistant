@@ -17,7 +17,7 @@ Features
 
 🖥️ Future plans: system interaction and automation
 
-Technologies Used
+#Technologies Used
 Python 3
 
 pyttsx3 – Text-to-speech
@@ -28,7 +28,7 @@ BeautifulSoup & requests – Web scraping
 
 pynput – (planned for future use in system controls)
 
-Installation
+#Installation
 Clone the repository:
 
 bash
@@ -58,14 +58,14 @@ Alice/
 ├── SearchNow.py             # Search-related functions
 ├── requirements.txt         # Required Python packages
 └── README.md                # Project documentation
-Requirements
+#Requirements
 Python 3.7 or above
 
 Working microphone
 
 Internet connection
 
-Future Plans
+#Future Plans
 Open and close applications
 
 Email integration
@@ -74,7 +74,7 @@ Set reminders and alarms
 
 Personalized interactions and learning capabilities
 
-License
+#License
 This project is open-source and available under the MIT License.
 
 
